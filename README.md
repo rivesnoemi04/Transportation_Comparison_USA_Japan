@@ -1,4 +1,4 @@
-# Transportation_Comparison_USA_Japan
+# Transportation Comparison of USA and Japan
 comparing transportation related emissions between the United States and Japan. Using RStudio to visualize emission data from both countries. 
 
 # Let's begin!
