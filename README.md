@@ -6,3 +6,5 @@ Start by using the code in world-emmisions-sector.R to organize the emmisions-by
 Under the Folder "Plots", you will have two options on how to visualize these styles
 # USA emissions
 Now use the code under "Japan_USA_emmissions_bysector" to create visualizations of emission data from Japan and the US. You will be using the same dataset, but organizing it differently! The plots created in this step are located in the "plot" folder.
+
+#Lets Continue with car usage
